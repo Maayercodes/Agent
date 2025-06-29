@@ -1,0 +1,3 @@
+2025-06-14 13:34:44.685 | INFO     | __main__:main:69 - Starting application initialization...
+2025-06-14 13:34:44.817 | SUCCESS  | __main__:init_database:54 - Database initialized successfully
+2025-06-14 13:34:44.817 | SUCCESS  | __main__:main:74 - Application initialized successfully!
