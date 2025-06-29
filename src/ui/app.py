@@ -5,10 +5,10 @@ from datetime import datetime
 from typing import List, Dict
 import os
 from dotenv import load_dotenv
-from ..database.models import init_db, Daycare, Influencer, Region, Platform
-from ..ai_assistant.assistant import AIAssistant
-from ..scrapers.daycare_scraper import DaycareScraper
-from ..scrapers.influencer_scraper import InfluencerScraper
+from src.database.models import init_db, Daycare, Influencer, Region, Platform
+from ai_assistant.assistant import AIAssistant
+from scrapers.daycare_scraper import DaycareScraper
+from scrapers.influencer_scraper import InfluencerScraper
 
 load_dotenv()
 
